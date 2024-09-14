@@ -289,7 +289,7 @@ span{
 @media (max-width: 768px) {
     .contact-grid {
         flex-direction: column; 
-        gap: 20
+        gap: 20px
     }
 }
 
